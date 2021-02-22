@@ -1,0 +1,91 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FacetWP Yearly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-22 15:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: facetwp-yearly"
+
+#: classes/Yearly.php:27
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add custom facet to filter your posts by yearly archive"
+msgstr ""
+
+#: classes/Yearly.php:27 classes/Yearly.php:139
+msgid "Any"
+msgstr ""
+
+#: classes/Yearly.php:144
+msgid "Archive order"
+msgstr ""
+
+#. Author of the plugin
+msgid "Be API Technical team"
+msgstr ""
+
+#: classes/Yearly.php:161
+msgid "Count"
+msgstr ""
+
+#: classes/Yearly.php:148
+msgid "Customize the archives order (default: \"Newest to Oldest\")"
+msgstr ""
+
+#: classes/Yearly.php:134
+msgid "Customize the first option label (default: \"Any\")"
+msgstr ""
+
+#: classes/Yearly.php:130
+msgid "Default label"
+msgstr ""
+
+#. Name of the plugin
+msgid "FacetWP Yearly"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://beapi.fr"
+msgstr ""
+
+#: classes/Yearly.php:154
+msgid "Newest to Oldest"
+msgstr ""
+
+#: classes/Yearly.php:155
+msgid "Oldest to newest"
+msgstr ""
+
+#: classes/Compatibility.php:40
+#, php-format
+msgid ""
+"Plugin Boilerplate require PHP version %s or greater to be activated. Your "
+"server is currently running PHP version %s."
+msgstr ""
+
+#: classes/Compatibility.php:25
+#, php-format
+msgid "Plugin Boilerplate requires PHP version %s or greater to be activated."
+msgstr ""
+
+#: classes/Yearly.php:165
+msgid "The maximum number of facet choices to show"
+msgstr ""
+
+#: classes/Yearly.php:10
+msgid "Yearly archive"
+msgstr ""
