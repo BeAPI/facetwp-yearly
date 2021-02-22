@@ -1,0 +1,17 @@
+.git
+.github
+.gitignore
+bin
+.idea
+.distignore
+.DS_Store
+.editorconfig
+.env
+composer.json
+composer.lock
+grumphp.yml
+LICENCE
+phpcs.xml
+psalm.xml
+README.md
+grumphp.yml

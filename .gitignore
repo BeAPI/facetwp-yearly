@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Dotenv
+.env
+!.env.example
+
+# Composer
+/vendor
+composer.lock
+
+# Release
+/bin/release/
