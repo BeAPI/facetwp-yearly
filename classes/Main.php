@@ -21,8 +21,6 @@ class Main {
 
 	protected function init() {
 		add_action( 'init', [ $this, 'init_translations' ] );
-		add_filter( 'facetwp_facet_sources', [ 'Beapi\Facetwp\Date\Yearly', 'yearly_sources' ] );
-		add_filter( 'facetwp_indexer_post_facet', [ 'Beapi\Facetwp\Date\Yearly', 'yearly_indexer' ], 10, 2 );
 	}
 
 	/**

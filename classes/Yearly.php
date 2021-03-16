@@ -6,6 +6,10 @@ class Yearly {
 
 	use Singleton;
 
+	protected function init(): void {
+		add_filter( 'facetwp_facet_sources', [ $this , 'yearly_sources' ] );
+		add_filter( 'facetwp_indexer_post_facet', [ $this, 'yearly_indexer' ], 10, 2 );
+	}
 	/**
 	 * Add new source "yearly"
 	 *
