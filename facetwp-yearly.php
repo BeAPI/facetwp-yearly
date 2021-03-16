@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: FacetWP Yearly
-Version: 2.0.1
+Version: 2.0.2
 Version Boilerplate: 3.0.0
 Plugin URI: https://beapi.fr
 Description: Add custom yearly source index
@@ -41,7 +41,7 @@ if ( file_exists( plugin_dir_path( __FILE__ ) . '/vendor/autoload.php' ) ) {
 }
 
 // Plugin constants
-define( 'BEAPI_FACETWP_YEARLY_VERSION', '2.0.1' );
+define( 'BEAPI_FACETWP_YEARLY_VERSION', '2.0.2' );
 define( 'BEAPI_FACETWP_YEARLY_MIN_PHP_VERSION', '7.0' );
 define( 'BEAPI_FACETWP_YEARLY_VIEWS_FOLDER_NAME', 'facetwp-yearly' );
 

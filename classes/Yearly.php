@@ -60,7 +60,7 @@ class Yearly {
 		 * @param string $current_object \WP_Post
 		 *
 		 */
-		$new_params = apply_filters( 'facetp2p_p2p_index_params', $new_params, $current_object );
+		$new_params = apply_filters( 'facet_yearly_index_params', $new_params, $current_object );
 		FWP()->indexer->index_row( $new_params );
 
 		return true;
