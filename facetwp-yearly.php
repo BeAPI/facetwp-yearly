@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: FacetWP Yearly
-Version: 1.0.0
+Version: 2.0.0
 Version Boilerplate: 3.0.0
 Plugin URI: https://beapi.fr
-Description: Add custom facet to filter your posts by yearly archive
+Description: Add custom yearly source index
 Author: Be API Technical team
 Author URI: https://beapi.fr
 Domain Path: languages
@@ -41,7 +41,7 @@ if ( file_exists( plugin_dir_path( __FILE__ ) . '/vendor/autoload.php' ) ) {
 }
 
 // Plugin constants
-define( 'BEAPI_FACETWP_YEARLY_VERSION', '1.0.0' );
+define( 'BEAPI_FACETWP_YEARLY_VERSION', '2.0.0' );
 define( 'BEAPI_FACETWP_YEARLY_MIN_PHP_VERSION', '7.0' );
 define( 'BEAPI_FACETWP_YEARLY_VIEWS_FOLDER_NAME', 'facetwp-yearly' );
 

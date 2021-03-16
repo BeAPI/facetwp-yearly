@@ -1,6 +1,6 @@
 # FacetWP -Yearly
 
-Custom facet to filter your posts by yearly archive
+Custom yearly source index
 
 # Requirements
 
