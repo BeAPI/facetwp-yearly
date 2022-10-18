@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: FacetWP Yearly
-Version: 2.0.2
+Version: 2.0.3
 Version Boilerplate: 3.0.0
 Plugin URI: https://beapi.fr
 Description: Add custom yearly source index
