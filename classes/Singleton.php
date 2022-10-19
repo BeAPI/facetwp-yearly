@@ -47,16 +47,18 @@ trait Singleton {
 	/**
 	 * prevent the instance from being cloned
 	 *
-	 * @return void
+	 * @throws \LogicException
 	 */
-	final private function __clone() {
+	final public function __clone() {
+		throw new \LogicException( 'A singleton must not be cloned!' );
 	}
 
 	/**
 	 * prevent from being unserialized
 	 *
-	 * @return void
+	 * @throws \LogicException
 	 */
-	final private function __wakeup() {
+	final public function __wakeup() {
+		throw new \LogicException( 'A singleton must not be unserialized!' );
 	}
 }
