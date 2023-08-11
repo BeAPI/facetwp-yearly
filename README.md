@@ -12,3 +12,7 @@ Custom yearly source index
 
 First activate FacetWP.
 Then activate FacetWP - Yearly to create your yearly facet.
+
+Create a Facet, for example a Select Facet, and choose "Yearly archive" as Data source.
+
+<img width="700" alt="image" src="https://github.com/BeAPI/facetwp-yearly/assets/7976501/77717727-29a0-4b5d-b357-7659ddd1ba45">
