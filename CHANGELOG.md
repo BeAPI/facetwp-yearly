@@ -1,3 +1,9 @@
+## 2.0.4
+- Update PHP dependencies
+
+## 2.0.3
+- Fix PHP 8 compatibility
+
 ## 2.0.2
 - Fix typo in hook name
 
