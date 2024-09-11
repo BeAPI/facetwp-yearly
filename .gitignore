@@ -11,3 +11,5 @@ composer.lock
 
 # Release
 /bin/release/
+
+.idea
