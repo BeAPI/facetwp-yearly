@@ -1,3 +1,6 @@
+## 2.0.5
+- Update PHP dependencies
+
 ## 2.0.4
 - Update PHP dependencies
 
